@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
+  <rect width="960" height="300" fill="#FAF6EF"/>
+  <text x="480" y="38" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="20" font-weight="700" fill="#1F1B16">数据一览</text>
+  <rect x="30" y="60" width="210" height="200" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <text x="135" y="140" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="42" font-weight="700" fill="#B23A2E">34,671</text>
+  <text x="135" y="180" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16">GitHub Stars</text>
+  <text x="135" y="210" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="12" fill="#1F1B16" opacity="0.6">上游实测星数</text>
+  <rect x="260" y="60" width="210" height="200" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <text x="365" y="140" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="42" font-weight="700" fill="#B23A2E">22</text>
+  <text x="365" y="180" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16">主分类</text>
+  <text x="365" y="210" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="12" fill="#1F1B16" opacity="0.6">含 43 个叶子分类</text>
+  <rect x="490" y="60" width="210" height="200" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <text x="595" y="140" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="42" font-weight="700" fill="#B23A2E">402</text>
+  <text x="595" y="180" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16">精选资源</text>
+  <text x="595" y="210" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="12" fill="#1F1B16" opacity="0.6">逐条计数</text>
+  <rect x="720" y="60" width="210" height="200" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <text x="825" y="140" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="42" font-weight="700" fill="#B23A2E">55</text>
+  <text x="825" y="180" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="14" fill="#1F1B16">最大分类条目</text>
+  <text x="825" y="210" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="12" fill="#1F1B16" opacity="0.6">开发者工作流</text>
+</svg>

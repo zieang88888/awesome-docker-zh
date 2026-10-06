@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220">
+  <rect width="960" height="220" fill="#FAF6EF"/>
+  <text x="480" y="36" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="20" font-weight="700" fill="#1F1B16">快速开始</text>
+  <rect x="40" y="60" width="260" height="130" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <circle cx="80" cy="95" r="18" fill="#B23A2E"/>
+  <text x="80" y="101" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="700" fill="#FAF6EF">1</text>
+  <text x="170" y="100" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="700" fill="#1F1B16">挑分类</text>
+  <text x="170" y="135" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="13" fill="#1F1B16" opacity="0.7">浏览 22 大分类</text>
+  <text x="170" y="158" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="13" fill="#1F1B16" opacity="0.7">定位你的场景</text>
+  <path d="M 310 125 L 345 125" stroke="#B23A2E" stroke-width="2.5" fill="none" marker-end="url(#arrowhead)"/>
+  <rect x="350" y="60" width="260" height="130" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <circle cx="390" cy="95" r="18" fill="#B23A2E"/>
+  <text x="390" y="101" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="700" fill="#FAF6EF">2</text>
+  <text x="480" y="100" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="700" fill="#1F1B16">找资源</text>
+  <text x="480" y="135" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="13" fill="#1F1B16" opacity="0.7">精选 402 条链接</text>
+  <text x="480" y="158" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="13" fill="#1F1B16" opacity="0.7">查看代表资源</text>
+  <path d="M 620 125 L 655 125" stroke="#B23A2E" stroke-width="2.5" fill="none" marker-end="url(#arrowhead)"/>
+  <rect x="660" y="60" width="260" height="130" rx="10" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+  <circle cx="700" cy="95" r="18" fill="#B23A2E"/>
+  <text x="700" y="101" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="16" font-weight="700" fill="#FAF6EF">3</text>
+  <text x="790" y="100" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="22" font-weight="700" fill="#1F1B16">用进项目</text>
+  <text x="790" y="135" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="13" fill="#1F1B16" opacity="0.7">复制链接直达</text>
+  <text x="790" y="158" text-anchor="middle" font-family="Noto Sans CJK SC, sans-serif" font-size="13" fill="#1F1B16" opacity="0.7">查阅原项目文档</text>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#B23A2E"/>
+    </marker>
+  </defs>
+</svg>
